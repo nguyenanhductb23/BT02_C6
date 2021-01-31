@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612058377 source:f:\code\bt02_c6\main.cpp
+	<iostream>
+	<iomanip>
+
